@@ -1,0 +1,16 @@
+#########################################################################################
+##
+##  This list blocks TV App Trackers.
+##
+#########################################################################################
+
+
+## LG
+aic-ngfts.lge.com
+aic.cdpbeacon.lgtvcommon.com
+bl-server.alphonso.tv
+clockskew.alphonso.tv
+prov-lg.alphonso.tv
+us.ibs.lgappstv.com
+us.info.lgsmartad.com
+us.rdx2.lgtvsdp.com
